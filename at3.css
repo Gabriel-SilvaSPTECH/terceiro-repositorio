@@ -1,0 +1,31 @@
+.paiA{
+    background-color: pink;
+    width: 800px;
+    height: 300px;
+}
+
+.filhoA{
+    background-color: orange;
+     width: 30%;
+     height: 60%;
+}
+
+.filhoB{
+    color: #FFFFFF;
+    background-color: purple;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+.ED{
+    background-color: purple;
+    width: 60%;
+    height: 30vh;
+}
+
+.filhoED{
+    background-color: red;
+    width: 85%;
+    height:45%;
+}
